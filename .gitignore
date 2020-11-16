@@ -1,0 +1,4 @@
+# ignora todos los ficheros que empiezen por _.
+_*.*
+# excepto _ayuda.txt
+!_ayuda.txt
